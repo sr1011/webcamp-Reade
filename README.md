@@ -1,6 +1,6 @@
 ＜アプリ名＞
 
-Booook
+online Bookshelf
 
 ＜サイト概要＞
 
