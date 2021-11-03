@@ -26,6 +26,11 @@ online Bookshelf
 
 https://docs.google.com/spreadsheets/d/1RFmlExrUhzLEWcDQEHMsr2_24_YDq_MHcx0K41SlnYY/edit?usp=sharing
 
+＜ER図＞
+
+[Untitled Diagram.drawio.pdf](https://github.com/sr1011/webcamp-Reade/files/7466061/Untitled.Diagram.drawio.pdf)
+
+
 ＜開発環境＞
 
 - OS：Linux(CentOS)
