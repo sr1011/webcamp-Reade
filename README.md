@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/1RFmlExrUhzLEWcDQEHMsr2_24_YDq_MHcx0K41Sl
 
 ＜ER図＞
 
-[Untitled Diagram.drawio.pdf](https://github.com/sr1011/webcamp-Reade/files/7466061/Untitled.Diagram.drawio.pdf)
+[Untitled Diagram.drawio.pdf](https://github.com/sr1011/webcamp-Reade/files/7471724/Untitled.Diagram.drawio.pdf)
 
 
 ＜開発環境＞
